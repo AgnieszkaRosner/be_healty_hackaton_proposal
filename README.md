@@ -53,7 +53,8 @@ For sake of quick and reliable project implementation lets use what We are good 
     * route params (cooordinate, slope, ect from db)
     * route description (from db)
     * tags (suitable for cycling, running, walking, ect)
-    * stats (bridged for now)
+    * stats (bridged for now) avaliable in [airly api](https://developer.airly.eu/docs#concepts.measurements)
+    * in case of no sensor avaliable in some area around given coordinates use line interpolation strategy to some extent
 - Bridges - Collecting data from IOT apis, do not have to be stored if response is based on fetching data and calculating them on the fly for clinet.Should work for medium treffic. Some info if necessary could be stored in no relational db as data warehouse or SQLite.
 - Bridges - composing path from navigation coordinates (simplistic filter to not serve rubbish), calculates slope, time, works on the fly for front end. No backend relations, take data from db and send to client.
 - Front End:
