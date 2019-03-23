@@ -38,7 +38,7 @@ Project will be divided to main services:
 
 For sake of quick and reliable project implementation lets use what We are good at:
 
-- Back End: Java, Python, NodeJs, Rust (becouse I am in love with her...). Choose one.
+- Back End: Java, Python, NodeJs, Rust (bacouse I am in love with her...). Choose one.
 - DB MySql, for back end approach, MongoDb plus SQLite for Navigation Services
 - Fron End: Angular7, Rx, Material. Lets start web frinedly, then going mobile if We have more time and people resources.
 - Navigation Services: Rust, C, C++, has to be fast to calculate in real time. Java at least.
@@ -47,14 +47,14 @@ For sake of quick and reliable project implementation lets use what We are good 
 ## POSSIBLY NOT ALL COULD BE DONE WITH TEAM OF FIVE. SO MAIN FEATURES TO FOCUS ON ARE:
 
 - Back End - Collecting and storing data from client.
-- Back Ennd - Serving to front end:
+- Back End - Serving to front end:
     * weather params (bridged)
-    * air polution params (bridged)
+    * air pollution params (bridged)
     * route params (cooordinate, slope, ect from db)
     * route description (from db)
     * tags (suitable for cycling, running, walking, ect)
     * stats (bridged for now)
-- Bridges - Collecting data from IOT apis, do not have to be stored if response is based on fetching data and calculating them on the fly for clinet. Should work for medium treffic.
+- Bridges - Collecting data from IOT apis, do not have to be stored if response is based on fetching data and calculating them on the fly for clinet.Should work for medium treffic. Some info if necessary could be stored in no relational db as data warehouse or SQLite.
 - Bridges - composing path from navigation coordinates (simplistic filter to not serve rubbish), calculates slope, time, works on the fly for front end. No backend relations, take data from db and send to client.
 - Front End:
     * Main Page with map on full window and serch input on the top, in left or right corner accoutn info.
@@ -69,13 +69,13 @@ For sake of quick and reliable project implementation lets use what We are good 
     * design.
     * nice icons, pix, layout.
     * greate look on mobile phone and web.
-    * it is done, working and We can show this.
-    * animations that something is going on the screen, 'it is alive' thing.
+    * projecct is fully working and We can prove it.
+    * animations of something on the screen, 'it is alive' thing.
     * fancy pseudo jargon for used technology: Neuro Network, Artificial Inteigence, Genetic allgorithm. All teams will have this, so do We.
     * Better to not use hardware, so We are not designing device of IOT network, just using what is avaliable.
     * Getting jury involved - asking and using their ideas. Never outsmarting or discussing on subject that is not disovered good enough.
 
-### DEVELOPERS JOB:
+### DEVELOPERS BEFORE, IN MOMENT AND AFTER JOB:
 
 - having as much fun as possible.
 - code as much as possible, it is what We love.
@@ -85,8 +85,12 @@ For sake of quick and reliable project implementation lets use what We are good 
 - listen to scrum master.
 - avoid solving two problems at once, monotask.
 - report problem to the team, ask for help, do not hide issues.
+- get head phones and good music with you, have playlist, it will help filter outside noice, and there is always a lot going on.
+- get phone or any mobile internet accespoint with you, do not count in good internet connection on hackathon.
+- get hydrated.
+- get somthing that will help you rest, f. e. sleeping bag,
 
-### SCRUM MASTER JOB:
+### SCRUM MASTER BEFORE, IN MOMENT and AFTER JOB:
 
 - get it all planed best, developers are not the best to do so, You are.
 - solve are obstacles for your team, so team can code.
@@ -94,6 +98,4 @@ For sake of quick and reliable project implementation lets use what We are good 
 - manage them so they do not have to worry what next.
 - do not alllow to let developers put somthing on 'production' when juri is comming to check, to much hustle is a terible idea.
 - stress is performance killer, it is fun + fun + fun.
-- Project PRESENTATION is your job, assume developers sucks at it. From last hackathon I learned, there would be nice to let you manage quetion answares with jur by pointing question to team member. It is worth trying. Other way We are heading in to informational chaos.
-
-
+- Project PRESENTATION is your job, assume developers sucks at it. From last hackathon I learned, there would be nice to let you manage quetion answares with jur by pointing question to team member. It is worth trying. Other way We are heading in to informational chaos.- buy your team an ice creams after all. An tell them they are the best.
