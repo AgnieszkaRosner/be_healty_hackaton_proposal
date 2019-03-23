@@ -9,8 +9,8 @@ Create an app that is going to promote healhy life style
 - App is directed to all people capable of moving outdoor or those that can be supported by any one to spent time moving outdoor.
 - App is directed to encurage walking, nordic walking, cycling, skating, running, sight seeing or just spending time on freash air, ect.
 - App main goal is to help any one to find interesting area near or close to any place of person interest that:
-* Is interesting in terms of sight seeing, views, nature.
-* Is safe in terms of being properly described and having all necessary informations: lights, distance, slopes, accesability, route, time, ect.
+    * Is interesting in terms of sight seeing, views, nature.
+    * Is safe in terms of being properly described and having all necessary informations: lights, distance, slopes, accesability, route, time, ect.
     * Has trafic informations attached.
     * Has air pollution information attached.
     * Has weather information attached.
