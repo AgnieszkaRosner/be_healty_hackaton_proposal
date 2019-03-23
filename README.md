@@ -32,7 +32,7 @@ Project will be divided to main services:
 
 - Back End - collecting, storing and serving data for front end.
 - Front End - clinet site app for displaying all data.
-- Iot Bridges - back end services that are bridging between Back End and IOT Apis and services collecting requested data and string them in DB without engaing Back End. Additionally will acts as solver for navigtion, ect. Algorithm is going to take navigated data, and compare them with IOT sensors data, than store.
+- Iot Bridges - back end services that are bridging between Back End and IOT Apis and services collecting requested data and send them in DB without engaing Back End. Additionally will acts as solver for navigtion, ect. Algorithm is going to take navigated data, and compare them with IOT sensors data, than store in db warehouse.
 
 ## TECHNOLOGY PROPOSED:
 
@@ -41,7 +41,7 @@ For sake of quick and reliable project implementation lets use what We are good 
 - Back End: Java, Python, NodeJs, Rust (bacouse I am in love with her...). Choose one.
 - DB MySql, for back end approach, MongoDb plus SQLite for Navigation Services
 - Fron End: Angular7, Rx, Material. Lets start web frinedly, then going mobile if We have more time and people resources.
-- Navigation Services: Rust, C, C++, has to be fast to calculate in real time. Java at least.
+- Navigation Services: Rust has to be fast to calculate in real time. Java at least.
 - IOT could be Python, but I am not sure, last time We had have 'fuck up' caused by Python not being type sefe, and We will not have enough time for writing tests for sure. TO CONSIDERATION.
 
 ## POSSIBLY NOT ALL COULD BE DONE WITH TEAM OF FIVE. SO MAIN FEATURES TO FOCUS ON ARE:
