@@ -74,6 +74,9 @@ For sake of quick and reliable project implementation lets use what We are good 
     * fancy pseudo jargon for used technology: Neuro Network, Artificial Inteigence, Genetic allgorithm. All teams will have this, so do We.
     * Better to not use hardware, so We are not designing device of IOT network, just using what is avaliable.
     * Getting jury involved - asking and using their ideas. Never outsmarting or discussing on subject that is not disovered good enough.
+    * Knowing how app will pay bills for its existing maybe a valued project feature, but I am not insisting.
+    * Some statistical information that project is not sucked out of a finger but solidly tested and researched is important feature.
+    * Know how you are going to sell it and to whom... reserch competition, buyers, (juri is your client, investor or both).
 
 ### DEVELOPERS BEFORE, IN MOMENT AND AFTER JOB:
 
