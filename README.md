@@ -98,4 +98,5 @@ For sake of quick and reliable project implementation lets use what We are good 
 - manage them so they do not have to worry what next.
 - do not alllow to let developers put somthing on 'production' when juri is comming to check, to much hustle is a terible idea.
 - stress is performance killer, it is fun + fun + fun.
-- Project PRESENTATION is your job, assume developers sucks at it. From last hackathon I learned, there would be nice to let you manage quetion answares with jur by pointing question to team member. It is worth trying. Other way We are heading in to informational chaos.- buy your team an ice creams after all. An tell them they are the best.
+- Project PRESENTATION is your job, assume developers sucks at it. From last hackathon I learned, there would be nice to let you manage quetion answares with jur by pointing question to team member. It is worth trying. Other way We are heading in to informational chaos.
+- buy your team an ice creams after all. An tell them they are the best.
