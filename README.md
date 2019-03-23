@@ -14,16 +14,16 @@ Create an app that is going to promote healhy life style
     * Has trafic informations attached.
     * Has air pollution information attached.
     * Has weather information attached.
-    * Contains proppability factors for weather, trafic and polution shown in simple chance of good and bad traits for at least few days.
+    * Contains propability factors for weather, trafic and pollution shown in simple chance of good and bad traits for at least few days.
     * Contains statistics of above factors.
     * Contains information how route is reviewed.
-- App is based on information from users and avaliable in IOT world form air pollution sensors, weather services and GPS devices.
-- App if allowed by user can track user on the route, collecting information from device, than user can contribute by sharing route information. Allgorithms on back end are than refering to IOT data on the server adding all information about shared route. User can describe route personaly and add photos. Main goal is that the most crucial information are calculated from IOT informations wildly avaliable. No Bies.
+- App is based on information from users and those collected from IOT apis of air pollution sensors, weather services and GPS devices.
+- App, if allowed by user, can track user on the route, collecting information from device, than user can contribute by sharing route information. Allgorithms on back end are than refering to IOT data on the server adding all information about shared route. User can describe route personaly and tags (tags are compared and reviewed with geo data). Main goal is that the most crucial information are calculated from IOT informations wildly avaliable. No Bies.
 - User can load path from data collected.
 - User is navigated by this app, can go from A to B and path is proposed. NOTE: Not crucial.
 - Therefore based on above assumption App serves precise information about such place of outdoor sport related activities and can be safly categorized. So any person can get enought information to perform choosen sport activity.
 - This approach alllows for safe, bias proof, encouraing, community based amd interesting for outdoor activity places sharing and searching.
-- In today coulture We love to share and as World is moving fast We have to value our time more, so We are prone to gather more information about what We want to do, to not wast any minut. We want to get the best avaliable for Us.
+- In today coulture We love to share and as World is moving faster and faster We have to value our time more, so We are prone to gather more information about what We want to do, to not wast any minut. We want to get the best avaliable for Us.
 - Sharing based on combined personal and objective information helps Us to avoid information flaws and overlods, simplifying given information, but not hiding what is important.
 
 ## PROJECT STRUCTURE:
