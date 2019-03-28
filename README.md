@@ -93,6 +93,7 @@ For sake of quick and reliable project implementation lets use what We are good 
 - get phone or any mobile internet accespoint with you, do not count in good internet connection on hackathon.
 - get hydrated.
 - get somthing that will help you rest, f. e. sleeping bag,
+- DO NOT blurt out our idea to other participants!
 
 ### SCRUM MASTER BEFORE, IN MOMENT and AFTER JOB:
 
